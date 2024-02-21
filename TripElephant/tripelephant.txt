@@ -1,9 +1,3 @@
-Hi Jordan,
-
-Thank you for applying to the SQL Reporting Analyst role at TripElephant.
-
-As part of our screening process, we ask that you please complete a short technical question.
-
 Data
 
 Attached is an archive of three tables in CSV. These tables represent a hierarchy of region information in Canada. Countrylist is the list of countries, Provinces is the list of states/provinces, and Regionlist contains a link of smaller regions, with the parentregionid column outlining that row's parent.
